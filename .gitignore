@@ -1,0 +1,7 @@
+# we put file paths to files we want git commands from our machine to ignore
+.DS_Store
+.vscode
+# environmental variable files
+# node_modules this is why thor's hammer is so heavy
+# any files/folders that we don't want pushed to github
+.idea
